@@ -14,6 +14,9 @@ const NavBar = () => {
                 <Link href="/upload" className="btn btn-ghost normal-case text-xl">
                     Upload
                 </Link>
+                <Link href="/api/auth/signin" className="btn btn-ghost normal-case text-xl">
+                    Login
+                </Link>
             </div>
         </div>
     );
