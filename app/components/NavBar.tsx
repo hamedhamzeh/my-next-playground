@@ -11,6 +11,9 @@ const NavBar = () => {
                 <Link href="/users" className="btn btn-ghost normal-case text-xl">
                     Users
                 </Link>
+                <Link href="/upload" className="btn btn-ghost normal-case text-xl">
+                    Upload
+                </Link>
             </div>
         </div>
     );
